@@ -34,4 +34,4 @@
   npm start 
   ```
 
-
+the tool will start working on the background
