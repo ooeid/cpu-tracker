@@ -35,6 +35,3 @@
   ```
 
 
-
-# cpu-tracker
-
